@@ -38,16 +38,14 @@ The company’s objective was to determine whether the Test Campaign delivers su
   - **Clicks:** Number of users who clicked the ad.
   - **Conversions:** Number of users who completed a purchase after clicking.
 
-### **Metrics Definition**
+### Metrics Definition
 The analysis focuses on the following metrics:
-1. **Click-Through Rate (CTR):**
-   \[
-   CTR = \frac{\text{Clicks}}{\text{Impressions}}
-   \]
-2. **Conversion Rate (CR):**
-   \[
-   CR = \frac{\text{Conversions}}{\text{Clicks}}
-   \]
+
+1. **Click-Through Rate (CTR):**  
+   CTR = (Clicks / Impressions)
+
+2. **Conversion Rate (CR):**  
+   CR = (Conversions / Clicks)
 
 ### **Statistical Testing**
 To ensure robust conclusions:

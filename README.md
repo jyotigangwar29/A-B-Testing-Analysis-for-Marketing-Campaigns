@@ -1,7 +1,7 @@
 # **A/B Testing Analysis for Marketing Campaigns**
 
 ## **Executive Summary**
-This project presents a comprehensive analysis of two marketing campaigns—Control Campaign and Test Campaign—to evaluate their performance in driving user engagement and conversions. By analyzing key metrics such as Click-Through Rate (CTR) and Conversion Rate (CR), this project identifies the strengths of the Test Campaign while highlighting opportunities for improvement in conversion strategies.
+This project presents a comprehensive analysis of two marketing campaigns, Control Campaign and Test Campaign, to evaluate their performance in driving user engagement and conversions. By analyzing key metrics such as Click-Through Rate (CTR) and Conversion Rate (CR), this project identifies the strengths of the Test Campaign while highlighting opportunities for improvement in conversion strategies.
 
 Through the application of statistical techniques, the analysis provides actionable insights to optimize future campaigns, improve business outcomes, and ensure data-driven decision-making.
 
